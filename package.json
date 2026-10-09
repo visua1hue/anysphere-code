@@ -1,0 +1,40 @@
+{
+  "name": "anysphere-code",
+  "displayName": "Anysphere Code",
+  "description": "Cursor's Anysphere theme for VS Code",
+  "version": "0.1.0",
+  "publisher": "visua1hue",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#1a1a1a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visua1hue/anysphere-code"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "anysphere",
+    "cursor",
+    "color theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Anysphere",
+        "label": "Anysphere Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anysphere-theme.json"
+      }
+    ]
+  }
+}
