@@ -27,7 +27,7 @@
     "themes": [
       {
         "id": "Anysphere",
-        "label": "Anysphere Dark",
+        "label": "Anysphere Code",
         "uiTheme": "vs-dark",
         "path": "./themes/anysphere-theme.json"
       }
