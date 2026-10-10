@@ -250,7 +250,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#6d6d6d"
+        "foreground": "#71717a"
       }
     },
     {
@@ -1892,7 +1892,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#6d6d6d"
+        "foreground": "#71717a"
       }
     },
     {
@@ -1976,7 +1976,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#6d6d6d"
+        "foreground": "#71717a"
       }
     },
     {
@@ -2035,6 +2035,8 @@
     "editorInlayHint.foreground": "#838383",
     "editorInlayHint.background": "#2b2b2b",
     "foreground": "#d6d6dd",
+    "descriptionForeground": "#a1a1aa",
+    "disabledForeground": "#71717a",
     "focusBorder": "#d6d6dd00",
     "selection.background": "#163761",
     "scrollbar.shadow": "#d6d6dd00",
@@ -2057,6 +2059,7 @@
     "list.inactiveSelectionForeground": "#d6d6dd",
     "list.hoverBackground": "#2a282a",
     "list.hoverForeground": "#d6d6dd",
+    "list.deemphasizedForeground": "#a1a1aa",
     "list.activeSelectionBackground": "#163761",
     "list.activeSelectionForeground": "#d6d6dd",
     "tree.indentGuidesStroke": "#d6d6dd00",
@@ -2106,7 +2109,7 @@
     "textLink.foreground": "#228df2",
     "editor.background": "#111111",
     "editor.foreground": "#d6d6dd",
-    "editorLineNumber.foreground": "#535353",
+    "editorLineNumber.foreground": "#71717a",
     "editorCursor.foreground": "#d6d6dd",
     "editorCursor.background": "#111111",
     "editor.selectionBackground": "#163761",
@@ -2129,7 +2132,7 @@
     "editor.wordHighlightBorder": "#d6d6dd00",
     "editor.lineHighlightBackground": "#111111",
     "editor.lineHighlightBorder": "#d6d6dd00",
-    "editorLineNumber.activeForeground": "#c2c2c2",
+    "editorLineNumber.activeForeground": "#d6d6dd",
     "editorLink.activeForeground": "#228df2",
     "editorIndentGuide.background": "#ffffff0d",
     "editorIndentGuide.activeBackground": "#737377",
@@ -2246,7 +2249,7 @@
     "gitDecoration.addedResourceForeground": "#5a964d",
     "gitDecoration.conflictingResourceForeground": "#aaa0fa",
     "gitDecoration.deletedResourceForeground": "#f14c4c",
-    "gitDecoration.ignoredResourceForeground": "#666666",
+    "gitDecoration.ignoredResourceForeground": "#71717a",
     "gitDecoration.modifiedResourceForeground": "#1981ef",
     "gitDecoration.stageDeletedResourceForeground": "#f14c4c",
     "gitDecoration.stageModifiedResourceForeground": "#1981ef",
