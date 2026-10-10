@@ -1998,7 +1998,7 @@
     }
   ],
   "colors": {
-    "terminal.background": "#191919",
+    "terminal.background": "#111111",
     "editorInlayHint.foreground": "#838383",
     "editorInlayHint.background": "#2b2b2b",
     "foreground": "#d6d6dd",
@@ -2125,7 +2125,7 @@
     "diffEditor.removedTextBackground": "#f14c4c30",
     "diffEditor.removedTextBorder": "#d6d6dd00",
     "diffEditor.border": "#383838",
-    "panel.background": "#181818",
+    "panel.background": "#111111",
     "panel.border": "#383838",
     "panelTitle.activeBorder": "#d6d6dd",
     "panelTitle.activeForeground": "#d6d6dd",
@@ -2137,6 +2137,7 @@
     "terminalCursor.background": "#5b51ec",
     "terminalCursor.foreground": "#d6d6dd",
     "terminal.border": "#383838",
+    "terminalOverviewRuler.border": "#111111",
     "terminal.ansiBlack": "#676767",
     "terminal.ansiBlue": "#4c9df3",
     "terminal.ansiBrightBlack": "#676767",
