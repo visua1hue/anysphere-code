@@ -871,6 +871,26 @@
       }
     },
     {
+      "scope": [
+        "meta.import string.quoted",
+        "meta.export string.quoted"
+      ],
+      "settings": {
+        "foreground": "#71717a"
+      }
+    },
+    {
+      "scope": [
+        "meta.import string.quoted punctuation.definition.string.begin",
+        "meta.import string.quoted punctuation.definition.string.end",
+        "meta.export string.quoted punctuation.definition.string.begin",
+        "meta.export string.quoted punctuation.definition.string.end"
+      ],
+      "settings": {
+        "foreground": "#d6d6dd"
+      }
+    },
+    {
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
       "settings": {
@@ -1187,10 +1207,23 @@
       }
     },
     {
-      "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
-      "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
+      "scope": [
+        "meta.structure.dictionary.value.json string.quoted.double.json",
+        "meta.structure.array.json string.quoted.double.json"
+      ],
       "settings": {
-        "foreground": "#e394dc"
+        "foreground": "#d6d6dd"
+      }
+    },
+    {
+      "scope": [
+        "meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.begin.json",
+        "meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.end.json",
+        "meta.structure.array.json string.quoted.double.json punctuation.definition.string.begin.json",
+        "meta.structure.array.json string.quoted.double.json punctuation.definition.string.end.json"
+      ],
+      "settings": {
+        "foreground": "#71717a"
       }
     },
     {
