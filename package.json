@@ -6,10 +6,6 @@
   "publisher": "visua1hue",
   "license": "MIT",
   "icon": "assets/icon.png",
-  "galleryBanner": {
-    "color": "#1a1a1a",
-    "theme": "dark"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/visua1hue/anysphere-code"
