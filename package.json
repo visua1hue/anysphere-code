@@ -29,7 +29,7 @@
         "id": "Anysphere",
         "label": "Anysphere Code",
         "uiTheme": "vs-dark",
-        "path": "./themes/anysphere-theme.json"
+        "path": "./vscode/anysphere-code.json"
       }
     ]
   }

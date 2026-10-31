@@ -12,3 +12,4 @@ node_modules/**
 **/*.ts
 !**/*.d.ts 
 .history
+t3code/**
